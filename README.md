@@ -1,1 +1,7 @@
 # nlp-project
+
+Simple Natural Language Processing tasks.
+
+The steps follow the tasks as described in [**Deep Learning for NLP Crash Course**](https://machinelearningmastery.com/crash-course-deep-learning-natural-language-processing/?utm_source=drip&utm_medium=email&utm_campaign=DLFNLP+Mini-Course&utm_content=Day+7%3A+Movie+Review+Sentiment+Analysis) by *Jason@ML Mastery*
+
+Movie Review data are provided [here](https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNjY5MTE5MjY5LCJuYmYiOjE2NjkxMTkyNjksImFjY291bnRfaWQiOiI5NTU2NTg4IiwiZGVsaXZlcnlfaWQiOiJsaGMxYnNyM3VpcXBtZWRxZGhkZCIsInVybCI6Imh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9qYnJvd25sZWUvRGF0YXNldHMvbWFzdGVyL3Jldmlld19wb2xhcml0eS50YXIuZ3o_X19zPXZybng1N3NuNzRqMmNvZWxmNGFkJnV0bV9zb3VyY2U9ZHJpcCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1ETEZOTFArTWluaS1Db3Vyc2UmdXRtX2NvbnRlbnQ9RGF5KzclM0ErTW92aWUrUmV2aWV3K1NlbnRpbWVudCtBbmFseXNpcyJ9._OtyBuacWQ4axCh4hH7G57JfE8TbGObi0wuPtnm-U3A)
